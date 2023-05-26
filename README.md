@@ -1,0 +1,1 @@
+# AutoPropertyDisabler_CursedMod
